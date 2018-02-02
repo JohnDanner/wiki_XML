@@ -1,2 +1,2 @@
-# wiki_XML
-file to convert to text for project 1
+## wiki_XML
+# textfiles for project 1, the XML was too big unfortunately, may try something else...
